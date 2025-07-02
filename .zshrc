@@ -80,7 +80,7 @@ ZSH_THEME="kafeitu"
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git zsh-autosuggestions you-should-use zsh-bat sudo zsh-history-substring-search zsh-autocomplete)
+plugins=(git zsh-autosuggestions you-should-use zsh-bat sudo zsh-history-substring-search)
 
 source $ZSH/oh-my-zsh.sh
 
